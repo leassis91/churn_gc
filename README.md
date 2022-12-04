@@ -6,16 +6,18 @@ Projeto de Machine Learning para identificação de futuros players que irão ca
 
 Uma das fontes de receita da GC são as assinaturas de seus players. Com isso, quando há crescimento de churn (cancelamento), é um sinal de que a receita terá queda. Assim, ao identificar os possíveis players que deixarão de assinar, temos oportunidade de retê-los, podendo realizar promoções e adição de benefícios, bem como comunicação de quais funcionalidades ele pode passar a utilizar.
 
-## Dados
-
-Utilizaremos os dados fornecidos pela própria Gamers Club. Você pode baixar estes dados no Kaggle: [Brazilian CS:GO Platform Dataset by Gamers Club](https://www.kaggle.com/datasets/gamersclub/brazilian-csgo-plataform-dataset-by-gamers-club).
-
 ## Ferramentas
 
 - Python 3.10
 - Databricks
 - MLFlow
 - PostgreSQL
+
+## Dados
+
+Utilizaremos os dados fornecidos pela própria Gamers Club. Você pode baixar estes dados no Kaggle: [Brazilian CS:GO Platform Dataset by Gamers Club](https://www.kaggle.com/datasets/gamersclub/brazilian-csgo-plataform-dataset-by-gamers-club).
+
+
 
 ### 1. Introdução e definição do problema
 
