@@ -10,6 +10,12 @@ Uma das fontes de receita da GC são as assinaturas de seus players. Com isso, q
 
 Utilizaremos os dados fornecidos pela própria Gamers Club. Você pode baixar estes dados no Kaggle: [Brazilian CS:GO Platform Dataset by Gamers Club](https://www.kaggle.com/datasets/gamersclub/brazilian-csgo-plataform-dataset-by-gamers-club).
 
+## Ferramentas
+
+- Python 3.10
+- Databricks
+- MLFlow
+- PostgreSQL
 
 ### 1. Introdução e definição do problema
 
