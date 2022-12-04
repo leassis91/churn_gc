@@ -1,4 +1,4 @@
-# Previsão de Churn de Assinantes da plataforma GamersClub
+# Previsão de Churn de Assinantes GamersClub
 
 Projeto de Machine Learning para identificação de futuros players que cancelarão sua assinatua na Gamers Club.
 
