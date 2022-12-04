@@ -40,4 +40,4 @@ Após ter treinado diversos algoritmos e testado diferentes métricas de perform
 
 ### 6. Deploy
 
-Para gerr valor a partir dos dados, é necessário que outros usuários e sistemas possam consumir as informações geradas pelo modelo. Então buscamos realizar o deploy deste algoritmo em forma de Batch e/ou Real Time, seja usando agendadores ou APIs.
+Para gerarmos valor a partir dos dados, é necessário que outros usuários e sistemas possam consumir as informações geradas pelo modelo. Então buscamos realizar o deploy deste algoritmo em forma de Batch e/ou Real Time, seja usando agendadores ou APIs.
