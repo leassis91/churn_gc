@@ -21,20 +21,19 @@ Utilizaremos os dados fornecidos pela própria Gamers Club. Você pode baixar es
 
 ### 1. Introdução e definição do problema
 
-Aqui vamos definir qual é a problemática que vamos atuar. Dando um boa introdução de como funciona a Gamers Club e seus assinaturas.
-Desta forma o pessoal consegue entender melhor quais serão as oportunidades envolvidas.
+In work...
 
 ### 2. Definição das Features Store
 
-A partir dos dados, podemos identificar quais variáveis (atributos) podem fazer mais sentido para este estudo. A ideia é ao final deste encontro tenhamos as principais features preditoras do churn, em formato de Feature Store.
+In work...
 
 Feature Store criadas:
-- [X] Assinatura
-- [X] Gameplay
-- [X] Medalha
+- [ ] Assinatura
+- [ ] Gameplay
+- [ ] Medalha
 
 
-### 3. Variável resposta e ABT
+<!-- ### 3. Variável resposta e ABT
 
 Uma das etapas mais complicadas no processo de modelagem é a definição e construção da variável resposta, i.e., a variável (evento) que desejamos prever. Neste encontro teremos não só esta definição, mas sua construção e a tabela para o treinamento do nosso algoritmo.
 
@@ -48,4 +47,4 @@ Após ter treinado diversos algoritmos e testado diferentes métricas de perform
 
 ### 6. Deploy
 
-Para gerarmos valor a partir dos dados, é necessário que outros usuários e sistemas possam consumir as informações geradas pelo modelo. Então buscamos realizar o deploy deste algoritmo em forma de Batch e/ou Real Time, seja usando agendadores ou APIs.
+Para gerarmos valor a partir dos dados, é necessário que outros usuários e sistemas possam consumir as informações geradas pelo modelo. Então buscamos realizar o deploy deste algoritmo em forma de Batch e/ou Real Time, seja usando agendadores ou APIs. -->
